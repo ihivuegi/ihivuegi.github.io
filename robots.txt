@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ihivuegi.github.io/Cdo/sitemap_index.txt.gz
+Sitemap: https://ihivuegi.github.io/MYy/sitemap_index.txt.gz
+Sitemap: https://ihivuegi.github.io/nVI/sitemap_index.txt.gz
+Sitemap: https://ihivuegi.github.io/sSg/sitemap_index.txt.gz
+Sitemap: https://ihivuegi.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://ihivuegi.github.io/suv/sitemap_index.txt.gz
